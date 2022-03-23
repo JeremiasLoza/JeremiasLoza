@@ -18,6 +18,7 @@
 
 ### 💻 Técnologias aprendidas:
 - ServiceNow.
+- Java.
 - HTML5.
 - CSS3.
 - JavaScript.
